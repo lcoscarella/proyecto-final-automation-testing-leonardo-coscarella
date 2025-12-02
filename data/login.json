@@ -1,0 +1,37 @@
+[
+    {
+        "username": "standard_user",
+        "password": "secret_sauce",
+        "valid": true
+    },
+    {
+        "username": "locked_out_user",
+        "password": "secret_sauce",
+        "valid": false
+    },
+    {
+        "username": "problem_user",
+        "password": "secret_sauce",
+        "valid": true
+    },
+    {
+        "username": "usuario_invalido",
+        "password": "password_invalido",
+        "valid": false
+    },
+    {
+        "username": "Prueba_usuario_123",
+        "password": "Prueba_pwd_123",
+        "valid": false
+    },
+    {
+        "username": "Prueba_usuario_456",
+        "password": "secret_sauce",
+        "valid": false
+    },
+    {
+        "username": "standard_user",
+        "password": "Prueba_pwd_456",
+        "valid": false
+    }
+]

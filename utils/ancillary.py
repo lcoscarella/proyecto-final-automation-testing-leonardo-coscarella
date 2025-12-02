@@ -1,4 +1,3 @@
-from requests import options
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
@@ -7,8 +6,15 @@ import time
 
 sauceDemoUrl = 'https://www.saucedemo.com/'
 sauceDemoUser = 'standard_user'
+sauceDemosInvalidUser = "usuario_invalido"
 sauceDemoPwd = 'secret_sauce'
+sauceDemoInvalidPwd = "pwd_invalida"
+sauceDemoInventoryUrl = 'https://www.saucedemo.com/inventory.html'
 sauceDemoCartUrl = 'https://www.saucedemo.com/cart.html'
+
+sauceDemoInputUsername = 'user-name'
+sauceDemoInputPassword = 'password'
+sauceDemoInputLoginButton = 'login-button'
 
 def getDriver():
 
@@ -34,18 +40,6 @@ def getDriver():
     service = Service(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service,options=options)
 
-    time.sleep(5)
+    time.sleep(1)
 
     return driver
-
-def loginSaucedemo(driver):
-
-    # Abro la pagina de login
-    driver.get(sauceDemoUrl)
-    
-    # Ingresar usuario, pwd y enviar click en boton Submit
-    driver.find_element(By.NAME,'user-name').send_keys(sauceDemoUser)
-    driver.find_element(By.NAME,'password').send_keys(sauceDemoPwd)
-    driver.find_element(By.ID,'login-button').click()
-
-    time.sleep(5)

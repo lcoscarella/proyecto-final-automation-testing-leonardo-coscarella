@@ -1,0 +1,8 @@
+username,password,valid
+"standard_user","secret_sauce", True
+"locked_out_user","secret_sauce", False
+"problem_user","secret_sauce", True
+"usuario_invalido","password_invalido", False
+"Prueba_usuario_123","Prueba_pwd_123", False
+"Prueba_usuario_456","secret_sauce", False
+"standard_user","Prueba_pwd_456", False

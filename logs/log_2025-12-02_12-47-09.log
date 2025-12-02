@@ -1,0 +1,121 @@
+2025-12-02 12:47:10 - INFO - Circuito completo de testing de usuario(s):
+2025-12-02 12:47:10 - INFO - 1 - GET Users
+2025-12-02 12:47:11 - INFO - 2 - POST User
+2025-12-02 12:47:13 - INFO - 3 - PUT User
+2025-12-02 12:47:14 - INFO - 4 - PATCH User
+2025-12-02 12:47:16 - INFO - 5 - DELETE User
+2025-12-02 12:47:17 - INFO - Flujo completo de usuario finalizado con éxito.
+2025-12-02 12:47:17 - INFO - Circuito completo de testing de usuario(s):
+2025-12-02 12:47:17 - INFO - 1 - GET Users
+2025-12-02 12:47:18 - INFO - 2 - POST User
+2025-12-02 12:47:20 - INFO - 3 - PUT User
+2025-12-02 12:47:21 - INFO - 4 - PATCH User
+2025-12-02 12:47:23 - INFO - 5 - DELETE User
+2025-12-02 12:47:24 - INFO - Flujo completo de usuario finalizado con éxito.
+2025-12-02 12:47:24 - INFO - Circuito completo de testing de usuario(s):
+2025-12-02 12:47:24 - INFO - 1 - GET Users
+2025-12-02 12:47:25 - INFO - 2 - POST User
+2025-12-02 12:47:27 - INFO - 3 - PUT User
+2025-12-02 12:47:28 - INFO - 4 - PATCH User
+2025-12-02 12:47:29 - INFO - 5 - DELETE User
+2025-12-02 12:47:31 - INFO - Flujo completo de usuario finalizado con éxito.
+2025-12-02 12:47:31 - INFO - ====== WebDriver manager ======
+2025-12-02 12:47:43 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:47:44 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:47:45 - INFO - Driver [C:\Users\lcosc\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-02 12:47:53 - INFO - Cantidad de productos en inventario: 6
+2025-12-02 12:47:53 - INFO - Menú abierto con opciones visibles.
+2025-12-02 12:47:54 - INFO - Menú cerrado correctamente.
+2025-12-02 12:47:54 - INFO - Productos ordenados por nombre (Z a A).
+2025-12-02 12:47:54 - INFO - Productos ordenados por precio (menor a mayor).
+2025-12-02 12:47:56 - INFO - Productos agregados al carrito: 3
+2025-12-02 12:47:57 - INFO - Carrito abierto con productos agregados presentes.
+2025-12-02 12:47:57 - INFO - Productos eliminados del carrito correctamente. Carrito vacío.
+2025-12-02 12:47:59 - INFO - ====== WebDriver manager ======
+2025-12-02 12:48:09 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:48:10 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:48:11 - INFO - Driver [C:\Users\lcosc\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-02 12:48:18 - INFO - ====== WebDriver manager ======
+2025-12-02 12:48:28 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:48:29 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:48:30 - INFO - Driver [C:\Users\lcosc\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-02 12:48:37 - INFO - ====== WebDriver manager ======
+2025-12-02 12:48:45 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:48:46 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:48:48 - INFO - Driver [C:\Users\lcosc\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-02 12:48:54 - INFO - ====== WebDriver manager ======
+2025-12-02 12:49:03 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:49:04 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:49:05 - INFO - Driver [C:\Users\lcosc\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-02 12:49:12 - INFO - ====== WebDriver manager ======
+2025-12-02 12:49:22 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:49:23 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:49:24 - INFO - Driver [C:\Users\lcosc\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-02 12:49:31 - INFO - ====== WebDriver manager ======
+2025-12-02 12:49:40 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:49:41 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:49:42 - INFO - Driver [C:\Users\lcosc\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-02 12:49:49 - INFO - ====== WebDriver manager ======
+2025-12-02 12:49:58 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:49:59 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:50:00 - INFO - Driver [C:\Users\lcosc\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-02 12:50:07 - INFO - ====== WebDriver manager ======
+2025-12-02 12:50:16 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:50:17 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:50:18 - INFO - Driver [C:\Users\lcosc\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-02 12:50:22 - INFO - Login exitoso para el usuario: standard_user
+2025-12-02 12:50:25 - INFO - ====== WebDriver manager ======
+2025-12-02 12:50:33 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:50:34 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:50:35 - INFO - Driver [C:\Users\lcosc\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-02 12:50:40 - WARNING - Login fallido para el usuario: locked_out_user - Mensaje de error: Epic sadface: Sorry, this user has been locked out.
+2025-12-02 12:50:42 - INFO - ====== WebDriver manager ======
+2025-12-02 12:50:53 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:50:54 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:50:55 - INFO - Driver [C:\Users\lcosc\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-02 12:51:00 - INFO - Login exitoso para el usuario: problem_user
+2025-12-02 12:51:04 - INFO - ====== WebDriver manager ======
+2025-12-02 12:51:13 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:51:14 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:51:15 - INFO - Driver [C:\Users\lcosc\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-02 12:51:20 - WARNING - Login fallido para el usuario: usuario_invalido - Mensaje de error: Epic sadface: Username and password do not match any user in this service
+2025-12-02 12:51:23 - INFO - ====== WebDriver manager ======
+2025-12-02 12:51:33 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:51:34 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:51:35 - INFO - Driver [C:\Users\lcosc\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-02 12:51:40 - WARNING - Login fallido para el usuario: Prueba_usuario_123 - Mensaje de error: Epic sadface: Username and password do not match any user in this service
+2025-12-02 12:51:42 - INFO - ====== WebDriver manager ======
+2025-12-02 12:51:52 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:51:53 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:51:54 - INFO - Driver [C:\Users\lcosc\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-02 12:51:59 - WARNING - Login fallido para el usuario: Prueba_usuario_456 - Mensaje de error: Epic sadface: Username and password do not match any user in this service
+2025-12-02 12:52:01 - INFO - ====== WebDriver manager ======
+2025-12-02 12:52:11 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:52:12 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:52:13 - INFO - Driver [C:\Users\lcosc\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-02 12:52:18 - WARNING - Login fallido para el usuario: standard_user - Mensaje de error: Epic sadface: Username and password do not match any user in this service
+2025-12-02 12:52:20 - INFO - ====== WebDriver manager ======
+2025-12-02 12:52:31 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:52:32 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:52:33 - INFO - Driver [C:\Users\lcosc\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-02 12:52:38 - WARNING - Login fallido para el usuario: michaelcooper - Mensaje de error: Epic sadface: Username and password do not match any user in this service
+2025-12-02 12:52:40 - INFO - ====== WebDriver manager ======
+2025-12-02 12:52:50 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:52:51 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:52:52 - INFO - Driver [C:\Users\lcosc\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-02 12:52:57 - WARNING - Login fallido para el usuario: mary27 - Mensaje de error: Epic sadface: Username and password do not match any user in this service
+2025-12-02 12:53:00 - INFO - ====== WebDriver manager ======
+2025-12-02 12:53:10 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:53:11 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:53:12 - INFO - Driver [C:\Users\lcosc\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-02 12:53:17 - WARNING - Login fallido para el usuario: nicholschristopher - Mensaje de error: Epic sadface: Username and password do not match any user in this service
+2025-12-02 12:53:19 - INFO - ====== WebDriver manager ======
+2025-12-02 12:53:29 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:53:30 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:53:32 - INFO - Driver [C:\Users\lcosc\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-02 12:53:36 - WARNING - Login fallido para el usuario: steven35 - Mensaje de error: Epic sadface: Username and password do not match any user in this service
+2025-12-02 12:53:39 - INFO - ====== WebDriver manager ======
+2025-12-02 12:53:48 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:53:49 - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-02 12:53:50 - INFO - Driver [C:\Users\lcosc\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+2025-12-02 12:53:55 - WARNING - Login fallido para el usuario: samanthajones - Mensaje de error: Epic sadface: Username and password do not match any user in this service
